@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataWatcher 2019</string>
+    <string name="sentFrom">Sent from DataWatcher</string>
+    <string name="sending">Sending text message to 555...</string>
+    <string name="dataUsed">Data used:</string>
+    <string name="outOf">out of 50Mo.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DataWatcher 2019</string>
+    <string name="dataUsed">"Données utilisées: "</string>
+    <string name="outOf">sur 50Mo.</string>
+    <string name="sending">Envoi du SMS en cours...</string>
+    <string name="sentFrom">Envoyé depuis DataWatcher</string>
+</resources>
