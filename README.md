@@ -4,7 +4,7 @@
 usage in the current month by sending an SMS to 555. The user then
 receives a text message from 555 containing information about their plan usage.
 
-![texting_555.jpg](datawatcher2019/img/texting_555.jpg)
+![texting_555.jpg](img/texting_555.jpg)
 
 Datawatcher is an Android app that sends an SMS to 555, waits for the response, 
 parses it, and displays how much data the user has used during the current month to-date
